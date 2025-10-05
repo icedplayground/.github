@@ -21,6 +21,17 @@ cargo clean
 
 ---
 
+### some of my iced projects
+
+**sleet_iced_hello**
+<br/>
+🧊 a hello iced project by sleet for interacting with a hello conrtact on near
+<br/>
+🐱 https://github.com/sleet-iced/iced_hello
+
+
+---
+
 
 find official iced info, examples and docs:
 - https://iced.rs/
