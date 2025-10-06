@@ -34,6 +34,12 @@ cargo clean
 <br/>
 🐱 https://github.com/sleet-iced/iced_hello
 
+**iced_playground**
+<br/>
+🧊 my iced playground on gitlab
+<br/>
+https://gitlab.com/the-sunshining/Sunny-Stuff/rust/iced_playground
+
 
 ---
 
