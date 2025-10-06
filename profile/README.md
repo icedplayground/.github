@@ -10,6 +10,10 @@ create a new iced application
 cargo new your_iced_application_name
 cd your_iced_application_name
 cargo add iced
+
+# or use my template
+cargo install cargo-generate
+cargo generate –git https://github.com/icedplayground/iced_hello_app
 ```
 
 other helpful cargo commands
