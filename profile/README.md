@@ -12,8 +12,9 @@ cd your_iced_application_name
 cargo add iced
 
 # or use my template
-cargo install cargo-generate
-cargo generate https://github.com/icedplayground/iced_hello_app/tree/template
+# cargo install cargo-generate
+# cargo generate https://github.com/icedplayground/iced_hello_app/tree/template
+# I am not sure how this works, you may have to clone and use the path.
 ```
 
 other helpful cargo commands
