@@ -13,7 +13,7 @@ cargo add iced
 
 # or use my template
 cargo install cargo-generate
-cargo generate https://github.com/icedplayground/iced_hello_app
+cargo generate https://github.com/icedplayground/iced_hello_app/tree/template
 ```
 
 other helpful cargo commands
