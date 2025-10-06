@@ -1,6 +1,7 @@
  # ICED PLAYGROUND
 personal playground for learning and building UIs with iced.rs
 
+> ICED is a cross-platform GUI library for Rust focused on simplicity and type-safety. 
 
 ---
 
