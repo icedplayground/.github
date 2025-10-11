@@ -48,6 +48,7 @@ https://gitlab.com/the-sunshining/Sunny-Stuff/rust/iced_playground
 find official iced info, examples and docs:
 - https://iced.rs/
 - https://book.iced.rs/
+- https://jl710.github.io/iced-guide/ (Unofficial Iced Guide)
 - https://github.com/iced-rs
 - https://github.com/iced-rs/awesome-iced
 - https://github.com/iced-rs/iced
